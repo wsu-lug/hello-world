@@ -1,8 +1,10 @@
-# Hello World
+# Hello World - Hacktoberfest 2018
 
 The purpose of this repository is to help people get familiar with creating pull requests, and to similarily recreate helloworldcollection.de.
 
-For Hacktober 2018, we are encouraging students to open pull requests to add their favorite languages, and get started with opening pull requests. 
+For Hacktober 2018, the WSU Linux Users' Group is encouraging students to open pull requests to this repository to add their favorite languages. 
+
+The only requirements is that you follow the steps below so the format looks like the example, and you actually have run the code on your machine. Copying and pasting from similar repositories is no fun :)
 
 ---
 
@@ -42,4 +44,12 @@ Steps:
 
 ![compare](./.instructions/compare.png)
 
-9. 
+9. On the open a pull request page, be sure to add a title, and the name of the language you are adding.
+
+10. Now we can open our pull request to the original repository.
+
+![createpr](./.instructions/createpr.png)
+
+Done! Our pull request has been opened! Check your status here: https://github.com/wsu-lug/hello-world/pulls
+
+![done](./.instructions/done.png)
