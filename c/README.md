@@ -6,5 +6,5 @@
 * Compile and run the program as shown in the screenshot
 
 ### Working screenshot:
-![screenshot](./screenshot.png?raw=true)
+![screenshot](./screenshot.PNG?raw=true)
 
