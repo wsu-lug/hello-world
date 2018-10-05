@@ -11,4 +11,4 @@
 
 3. Working screenshot:
 
-![HacktoberfestScreenShot](./HacktoberfestScreenShot.png?raw=true)
+![screenshot](./HacktoberfestScreenShot.png?raw=true)
