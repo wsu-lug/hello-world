@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. To compile and run, make sure you have the Rubt installed on your machine.
+1. To compile and run, make sure you have the Ruby installed on your machine.
 [rebornix.ruby]
 
 2. Compile using this command:
