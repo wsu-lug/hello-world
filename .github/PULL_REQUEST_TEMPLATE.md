@@ -1,4 +1,4 @@
-**Which language are you adding? (If it's not widely known, or rather esoteric, can you provide a link to more information?**
+**Which language are you adding? (If it's not widely known, or rather esoteric, can you provide a link to more information?)**
 
 
 **Things to make sure of:**
