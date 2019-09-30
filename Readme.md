@@ -14,7 +14,7 @@ Prerequisites:
 
 Steps: 
 
-1. Make sure you're on this repository page.
+1. Make sure you are on this repository page.
 2. Click "fork in the top right corner to fork this repository to your own account.
 
 ![fork](./.instructions/fork.png)
