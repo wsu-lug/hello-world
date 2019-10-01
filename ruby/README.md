@@ -1,4 +1,4 @@
-# Java
+# Ruby
 
 ## Instructions
 
