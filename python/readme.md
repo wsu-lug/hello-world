@@ -7,4 +7,4 @@ Hello World, Hello Python!
 ## the final result looks like ... ![screenshot](./say_hi_py.png?raw=true)
 ## then git add main.py, git commit -m "message of your choice", and git push <appropriate branch> ![screenshot](./commit_steps.png?raw=true)
 
-HAPPY HACKTOBERFEST!
+[screenshot](./screenshot.png?raw=true)
