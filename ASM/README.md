@@ -7,3 +7,5 @@ Then run:
 $ nasm -f bin hello.asm -o hello.bin
 $ qemu-system-i386 hello.bin
 ```
+
+<img src="hello.png" />
