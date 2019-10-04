@@ -6,10 +6,8 @@ First, you will need:
 
 Then run:
 ```
-$ make
-$ ./bin/hello-world
-```
-<img src="screencast.gif" />
+Copy your code to a c++ editor online like as
+https://www.onlinegdb.com/online_c++_compiler
 
 
 
