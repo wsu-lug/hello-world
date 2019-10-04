@@ -1,7 +1,7 @@
 org 0x7c00
 jmp main
 
-batata times 30 db 0
+
 msg db 'HELLO WORLD',0
 
 
@@ -79,7 +79,6 @@ printf:
 		lodsb
 		cmp al,0
 		je end_print
-		add al, -32
 		inc dx
 		call putchar
 		jmp print_loop
