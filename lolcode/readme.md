@@ -1,12 +1,12 @@
 # LOLCODE
 
 ## Instructions
-1. To run, install the lolcode interpreter
+1. To run,just install the lolcode interpreter
 ```
 $ git clone https://github.com/justinmeza/lci.git
-$ cd lci
+$ cd lci.
 $ cmake .
-$ make && make install
+$ make && make install.
 ```
 2. Run the using the command: ```lci main.lol``` in the ./lolcode/ directory.
 3. Working screenshot: 
