@@ -1,16 +1,9 @@
-# Asm
+# ASM
 
-## Installation
- * sudo apt install nasm
-
-## Compile
-
- ```
- 	nasm -elf32 program.asm -o program.o
- ```
-
- ```
- 	ld -m elf_i386 program.o -o HelloWorld
- ```
+## Instructions
+1. To run, make sure you have the go binaries installed on your machine. sudo apt install nasm
+2. Run the using the command: ```nasm -f elf program.asm -o program.o``` and ```ld -m elf_i386 program.o -o HelloWorld```
+3. Working screenshot: 
 
 
+![screenshot](./screenshot.png?raw=true)
